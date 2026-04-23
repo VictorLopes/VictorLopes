@@ -1,6 +1,6 @@
 # Hi there, I'm Victor Lopes! 👋
 
-### 👨‍💻 Full Stack Engineer | AI Researcher | Owner at EXACTA LABS
+### 👨‍💻 Full Stack Engineer
 
 I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stack Developer** dedicated to building robust, scalable software solutions. Currently, I am deepening my expertise through a **Post-Graduate specialization in Java and Artificial Intelligence**.
 
