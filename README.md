@@ -34,8 +34,8 @@ I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stac
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Your Profile Link]
-* **Email:** [Your Professional Email]
-* **Portfolio:** [EXACTA LABS Link]
+* **LinkedIn:** [vrlopes](https://www.linkedin.com/in/vrlopes/)
+* **Email:** [victor.lopesms@gmail.com](victor.lopesms@gmail.com)
+* **Portfolio:** [Page](victorlopes.github.io)
 
 *"Building the future, one commit at a time."*
