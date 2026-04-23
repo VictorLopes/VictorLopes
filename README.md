@@ -8,6 +8,12 @@ I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stac
 
 ### 🛠️ My Tech Stack
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Languages & Frameworks**
 * **Backend:** Node.js, Java (Spring Boot), Python (FastAPI), C#, TypeScript, Go
 * **Frontend:** ReactJS, Vanilla JavaScript
@@ -26,6 +32,9 @@ I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stac
 ---
 
 ### 📊 GitHub Stats
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victorlopes&theme=radical)
+
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorlopes&show_icons=true&theme=radical)
 
