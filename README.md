@@ -17,18 +17,12 @@ I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stac
 **Languages & Frameworks**
 * **Backend:** Node.js, Java (Spring Boot), Python (FastAPI), C#, TypeScript, Go
 * **Frontend:** ReactJS, Vanilla JavaScript
-* **Database:** PostgreSQL, MySQL, Redis
+* **Database:** PostgreSQL, MySQL, Redis, Mongodb
 
 **Specializations & Tools**
 * **AI/ML:** Local Model Deployment, Prompt Engineering (Gemini, Claude, GPT), Whisper AI
 * **Testing & DevOps:** Cypress, Microservices Architecture, Git
-
----
-
-### 🚀 Current Projects & Learning
-* 🌱 **Learning:** Advanced AI integration patterns and Spring Data optimization.
-* ⚡ **Fun Fact:** When I'm not in front of a terminal, I'm likely hitting a new PR at **SelfIt** or exploring open worlds in **Red Dead Redemption 2**.
-
+  
 ---
 
 ### 📊 GitHub Stats
