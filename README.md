@@ -16,7 +16,7 @@ I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stac
 
 **Languages & Frameworks**
 * **Backend:** Node.js, Java (Spring Boot), Python (FastAPI), C#, TypeScript, Go
-* **Frontend:** ReactJS, Vanilla JavaScript
+* **Frontend:** ReactJS, VueJS, JavaScript
 * **Database:** PostgreSQL, MySQL, Redis, Mongodb
 
 **Specializations & Tools**
