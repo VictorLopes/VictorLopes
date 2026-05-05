@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full Stack Engineer
 
-I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stack Developer** dedicated to building robust, scalable software solutions. Currently, I am deepening my expertise through a **Post-Graduate specialization in Java and Artificial Intelligence**.
+I am a **Full Stack Developer** dedicated to building robust, scalable software solutions. Currently, I am deepening my expertise through a **Post-Graduate specialization in Java and Artificial Intelligence**.
 
 ---
 
@@ -40,5 +40,3 @@ I am a passionate **Computer Engineering** student at **UEFS** and a **Full Stac
 * **LinkedIn:** [vrlopes](https://www.linkedin.com/in/vrlopes/)
 * **Email:** [victor.lopesms@gmail.com](victor.lopesms@gmail.com)
 * **Portfolio:** [Page](https://victorlopes.github.io)
-
-*"Building the future, one commit at a time."*
